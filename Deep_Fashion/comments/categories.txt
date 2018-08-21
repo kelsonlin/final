@@ -1,0 +1,21 @@
+The final 17 categories we decided on are: 
+- thick cotton sweater / thin cotton sweater / wool sweater / short sleeve top / sleeveless top
+- jeans / trousers / leggings / comfortable pants / shorts / short skirt / long skirt
+- long full-body wear / short full-body wear 
+- cardigan / blazer / winter wear 
+
+The characteristics of clothes we took into consideration when coming up with these categories are: 
+- what part of the body does it cover? (top / bottom / full-body) 
+- do you wear it on its own or on top of other clothes? (inner wear / outer wear) 
+- length of sleeves (short sleeve / long sleeve / sleeveless) 
+- material (thin cotton / thick cotton / wool) 
+- well-known types (jeans / leggings / blazer
+
+Problems: 
+- does not include certain clothes such as underwear, swimsuits, traditional clothes, etc., etc. 
+- there is still ambiguity for certain clothes 
+- does not distinguish between dresses and jumpsuits 
+
+Solutions: 
+- make the categories more specific, which would be enabled by having a bigger dataset 
+- the solution would differ based no the purpose of the model (whether it's going to be used at clothes shops, etc) 

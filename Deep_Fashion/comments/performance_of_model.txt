@@ -1,0 +1,12 @@
+We used TensorFlow's Object Detection models and trained them on our dataset. We used fine-tuning, so we trained from a previously saved checkpoint, also provided by GOOGLE. The models that we have used include: 
+- SSD Mobilenet V2 
+- Inception V2
+
+The model seems to perform quite well on the evaluation dataset, but when we test it on actual data, such as YouTube videos and actual webcam footage, their performance decreases. We though this could be because the evaluation dataset and the training dataset are very similar whereas YOUTUBE videos and actual webcame footage differ a lot due to the varying environments (the angle, the lightening, etc., etc.) 
+
+Problem: 
+- The model cannot distinguish between short-sleeve top and long-sleeve top. It categorizes all of them as long-sleeve top. Our hypothesis is that the model consides human arms to be part of the clothes, and it therefore cannot distinguish between short sleeves and long sleeves. 
+
+Solutions:  
+- We could use masks on top of bounding boxes to ensure that the machine is learning the clothes, not human body parts.  
+- We could try to remove the bias from our model by getting the same proportion of clothes on human body and clothes not on human body. Furthermore, among the photos of clothes on human body, we could have the same number of each skin color, age group, photos with and without the human face, etc. 

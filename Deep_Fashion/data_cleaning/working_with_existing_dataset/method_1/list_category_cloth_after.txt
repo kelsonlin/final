@@ -1,0 +1,19 @@
+17
+category_name                   label 
+Thick_Cotton_Sweater  		1
+Thin_Long_Sleeve_Top		2
+Wool_Sweater			3
+Short_Sleeve_Top		4
+Sleeveless_Top			5
+Jeans 				6
+Trousers			7
+Leggings			8
+Comfortable_Pants	     	9
+Shorts				10
+Short_Skirt			11
+Long_Skirt			12
+Long_Full-body_Wear		13
+Short_Full-body_Wear		14
+Cardigan			15
+Blazer				16
+Winter_Wear			17

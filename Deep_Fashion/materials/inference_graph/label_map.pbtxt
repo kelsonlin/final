@@ -1,0 +1,64 @@
+item {
+   id:1
+   name:'Thin_Long_Sleeve_Top'
+}
+item {
+   id:2
+   name:'Wool_Sweater'
+}
+item {
+   id:3
+   name:'Short_Sleeve_Top'
+}
+item {
+   id:4
+   name:'Sleeveless_Top'
+}
+item {
+   id:5
+   name:'Jeans'
+}
+item {
+   id:6
+   name:'Bottom_Wear'
+}
+item {
+   id:7
+   name:'Leggings'
+}
+item {
+   id:8
+   name:'Comfortable_Pants'
+}
+item {
+   id:9
+   name:'Shorts'
+}
+item {
+   id:10
+   name:'Short_Skirt'
+}
+item {
+   id:11
+   name:'Long_Skirt'
+}
+item {
+   id:12
+   name:'Long_Full_Body_Wear'
+}
+item {
+   id:13
+   name:'Short_Full_Body_Wear'
+}
+item {
+   id:14
+   name:'Cardigan'
+}
+item {
+   id:15
+   name:'Blazer'
+}
+item {
+   id:16
+   name:'Winter_Wear'
+}
